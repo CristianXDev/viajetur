@@ -1,0 +1,16 @@
+body{
+    font-family:fantasy;
+    padding: 0px;
+    margin: 0px;
+}
+.color-container{
+    width: 16px;
+    height: 16px;
+    display: inline-block;
+    border-radius: 4px;
+
+}
+a{
+    text-decoration: none;
+    
+}

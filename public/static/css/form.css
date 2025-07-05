@@ -1,0 +1,132 @@
+/*====================
+FORM - RESPONSIVO        
+=====================*/
+@media(max-width:600px){
+
+    body{
+        display:flex;
+        flex-direction:column;
+        align-items:center;
+        justify-content:center;
+    }
+
+    .form{
+        float:unset;
+        margin:0 0 15% 0 !important;
+    }
+
+    .form-description{
+        float:unset;
+        margin:0 0 20px 0 !important;
+    }
+
+    .form-description h1{
+        font-size:1em !important;
+        color:#FFF !important;
+    }
+
+    .form-description p{
+        font-size:0.4em !important;
+    }
+
+}
+
+@media(max-width:800px){
+
+    body{
+        display:flex;
+        flex-direction:column;
+        align-items:center;
+        justify-content:center;
+    }
+
+    .form{
+        float:unset;
+        margin:0 0 15% 0 !important;
+    }
+
+    .form-description{
+        float:unset;
+        margin:0 0 20px 0 !important;
+    }
+
+    .form-description h1{
+        font-size:1.4em !important;
+        color:#FFF !important;
+    }
+
+    .form-description p{
+        font-size:0.6em !important;
+    }
+
+}
+
+@media(max-width:1000px){
+
+    body{
+        display:flex;
+        flex-direction:column;
+        align-items:center;
+        justify-content:center;
+    }
+
+    .form{
+        float:unset;
+        margin:0 0 15% 0 !important;
+    }
+
+    .form-description{
+        float:unset;
+        margin:0 0 20px 0 !important;
+    }
+
+    .form-description h1{
+        font-size:2em !important;
+        color:#FFF !important;
+    }
+
+    .form-description p{
+        font-size:0.9em !important;
+    }
+
+}
+
+@media(min-width:1300px){
+
+    .form{
+        float:right;
+        margin:10% 20% 15% 0 !important;
+    }
+
+    .form-description{
+        float:left;
+        margin:10% 0% 15% 20% !important;
+    }
+
+}
+
+@media(min-width:1600px){
+
+    .form{
+        float:right;
+        margin:10% 25% 15% 0 !important;
+    }
+
+    .form-description{
+        float:left;
+        margin:10% 0% 15% 25% !important;
+    }
+}
+
+@media(min-width:1800px){
+
+    .form{
+        float:right;
+        margin:10% 30% 15% 0 !important;
+    }
+
+    .form-description{
+        float:left;
+        margin:10% 0% 15% 30% !important;
+    }
+}
